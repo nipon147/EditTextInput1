@@ -1,0 +1,16 @@
+D:\M\Games\bin\Debug\Games.exe.config
+D:\M\Games\bin\Debug\Games.exe
+D:\M\Games\bin\Debug\Games.pdb
+D:\M\Games\bin\Debug\Games.xml
+D:\M\Games\obj\Debug\Games.fromMaze.resources
+D:\M\Games\obj\Debug\Games.Resources.resources
+D:\M\Games\obj\Debug\Games.vbproj.GenerateResource.Cache
+D:\M\Games\obj\Debug\Games.exe
+D:\M\Games\obj\Debug\Games.xml
+D:\M\Games\obj\Debug\Games.pdb
+D:\M\Games\bin\Debug\Interop.WMPLib.dll
+D:\M\Games\bin\Debug\AxInterop.WMPLib.dll
+D:\M\Games\obj\Debug\Interop.WMPLib.dll
+D:\M\Games\obj\Debug\AxInterop.WMPLib.dll
+D:\M\Games\obj\Debug\Games.vbproj.ResolveComReference.cache
+D:\M\Games\obj\Debug\Games.timeBomb.resources

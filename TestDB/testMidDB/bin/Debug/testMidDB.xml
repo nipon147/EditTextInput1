@@ -1,0 +1,108 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+testMidDB
+</name>
+</assembly>
+<members>
+<member name="T:testMidDB.testDBDataSet.billingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:testMidDB.testDBDataSet.membersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:testMidDB.testDBDataSet.studentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:testMidDB.testDBDataSet.billingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:testMidDB.testDBDataSet.membersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:testMidDB.testDBDataSet.studentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:testMidDB.testDBDataSet.billingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:testMidDB.testDBDataSet.membersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:testMidDB.testDBDataSet.studentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:testMidDB.testDBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:testMidDB.testDBDataSetTableAdapters.billingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:testMidDB.testDBDataSetTableAdapters.membersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:testMidDB.testDBDataSetTableAdapters.studentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:testMidDB.testDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(testMidDB.testDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:testMidDB.testDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(testMidDB.testDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:testMidDB.testDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(testMidDB.testDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:testMidDB.testDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:testMidDB.testDBDataSetTableAdapters.TableAdapterManager.UpdateAll(testMidDB.testDBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:testMidDB.testDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:testMidDB.testDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:testMidDB.testDBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:testMidDB.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:testMidDB.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:testMidDB.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,16 @@
+D:\M\dbMaintain\bin\Debug\dbMaintain.exe.config
+D:\M\dbMaintain\bin\Debug\dbMaintain.exe
+D:\M\dbMaintain\bin\Debug\dbMaintain.pdb
+D:\M\dbMaintain\bin\Debug\dbMaintain.xml
+D:\M\dbMaintain\obj\Debug\dbMaintain.fmAddMember.resources
+D:\M\dbMaintain\obj\Debug\dbMaintain.Resources.resources
+D:\M\dbMaintain\obj\Debug\dbMaintain.vbproj.GenerateResource.Cache
+D:\M\dbMaintain\obj\Debug\dbMaintain.exe
+D:\M\dbMaintain\obj\Debug\dbMaintain.xml
+D:\M\dbMaintain\obj\Debug\dbMaintain.pdb
+D:\M\dbMaintain\obj\Debug\dbMaintain.frmStudent.resources
+D:\M\dbMaintain\obj\Debug\dbMaintain.findEmp.resources
+D:\M\dbMaintain\obj\Debug\dbMaintain.Form3.resources
+D:\M\dbMaintain\obj\Debug\dbMaintain.Form4.resources
+D:\M\dbMaintain\obj\Debug\dbMaintain.Form5.resources
+D:\M\dbMaintain\obj\Debug\dbMaintain.addMembers.resources

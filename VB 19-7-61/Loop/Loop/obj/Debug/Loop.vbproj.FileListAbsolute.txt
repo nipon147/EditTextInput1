@@ -1,0 +1,9 @@
+D:\M\VB 19-7-61\Loop\Loop\bin\Debug\Loop.exe.config
+D:\M\VB 19-7-61\Loop\Loop\bin\Debug\Loop.exe
+D:\M\VB 19-7-61\Loop\Loop\bin\Debug\Loop.pdb
+D:\M\VB 19-7-61\Loop\Loop\bin\Debug\Loop.xml
+D:\M\VB 19-7-61\Loop\Loop\obj\Debug\Loop.Resources.resources
+D:\M\VB 19-7-61\Loop\Loop\obj\Debug\Loop.vbproj.GenerateResource.Cache
+D:\M\VB 19-7-61\Loop\Loop\obj\Debug\Loop.exe
+D:\M\VB 19-7-61\Loop\Loop\obj\Debug\Loop.xml
+D:\M\VB 19-7-61\Loop\Loop\obj\Debug\Loop.pdb

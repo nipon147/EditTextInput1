@@ -1,0 +1,10 @@
+D:\M\db1\db1\bin\Debug\db1.exe.config
+D:\M\db1\db1\bin\Debug\db1.exe
+D:\M\db1\db1\bin\Debug\db1.pdb
+D:\M\db1\db1\bin\Debug\db1.xml
+D:\M\db1\db1\obj\Debug\db1.frmProducts.resources
+D:\M\db1\db1\obj\Debug\db1.Resources.resources
+D:\M\db1\db1\obj\Debug\db1.vbproj.GenerateResource.Cache
+D:\M\db1\db1\obj\Debug\db1.exe
+D:\M\db1\db1\obj\Debug\db1.xml
+D:\M\db1\db1\obj\Debug\db1.pdb

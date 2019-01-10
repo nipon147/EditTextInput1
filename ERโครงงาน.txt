@@ -1,0 +1,14 @@
+Admin(AID, Name, LastName,Address, Age , Sex, Email, Tel, (TID_FK))
+Users((UID_PK) , Name,  LastName,  Address, Age, Sex, Email, Tel, (TID_FK), (RID_FK))
+Trainners((TID_PK), Name , LastName, Address, Age , Sex, Email, Tel, (CID_FK))
+Class(CID, Yoka, Weight, Arobic)
+Teach(UID_PK, TID_PK, DateStart,DateEnd)
+Register(RID, month, 6months, 1year)
+R01 > M01 > 01/01/2562 > 02/2/2562
+R02 > M02 > 01/01/2562 > 01/07/2562		
+R03 > M03 > 01/01/2562 > 01/01/2563
+
+
+
+
+

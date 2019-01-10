@@ -1,0 +1,10 @@
+D:\M\TestDB\testMidDB\bin\Debug\testMidDB.exe.config
+D:\M\TestDB\testMidDB\obj\Debug\testMidDB.Form1.resources
+D:\M\TestDB\testMidDB\obj\Debug\testMidDB.Resources.resources
+D:\M\TestDB\testMidDB\obj\Debug\testMidDB.vbproj.GenerateResource.Cache
+D:\M\TestDB\testMidDB\bin\Debug\testMidDB.exe
+D:\M\TestDB\testMidDB\bin\Debug\testMidDB.pdb
+D:\M\TestDB\testMidDB\bin\Debug\testMidDB.xml
+D:\M\TestDB\testMidDB\obj\Debug\testMidDB.exe
+D:\M\TestDB\testMidDB\obj\Debug\testMidDB.xml
+D:\M\TestDB\testMidDB\obj\Debug\testMidDB.pdb

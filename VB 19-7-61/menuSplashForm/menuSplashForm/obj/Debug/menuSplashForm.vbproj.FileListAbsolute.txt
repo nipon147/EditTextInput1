@@ -1,0 +1,14 @@
+D:\M\VB 19-7-61\menuSplashForm\menuSplashForm\bin\Debug\menuSplashForm.exe.config
+D:\M\VB 19-7-61\menuSplashForm\menuSplashForm\bin\Debug\menuSplashForm.exe
+D:\M\VB 19-7-61\menuSplashForm\menuSplashForm\bin\Debug\menuSplashForm.pdb
+D:\M\VB 19-7-61\menuSplashForm\menuSplashForm\bin\Debug\menuSplashForm.xml
+D:\M\VB 19-7-61\menuSplashForm\menuSplashForm\obj\Debug\menuSplashForm.Form1.resources
+D:\M\VB 19-7-61\menuSplashForm\menuSplashForm\obj\Debug\menuSplashForm.Resources.resources
+D:\M\VB 19-7-61\menuSplashForm\menuSplashForm\obj\Debug\menuSplashForm.vbproj.GenerateResource.Cache
+D:\M\VB 19-7-61\menuSplashForm\menuSplashForm\obj\Debug\menuSplashForm.exe
+D:\M\VB 19-7-61\menuSplashForm\menuSplashForm\obj\Debug\menuSplashForm.xml
+D:\M\VB 19-7-61\menuSplashForm\menuSplashForm\obj\Debug\menuSplashForm.pdb
+D:\M\VB 19-7-61\menuSplashForm\menuSplashForm\obj\Debug\menuSplashForm.fromMajor.resources
+D:\M\VB 19-7-61\menuSplashForm\menuSplashForm\obj\Debug\menuSplashForm.fromStudents.resources
+D:\M\VB 19-7-61\menuSplashForm\menuSplashForm\obj\Debug\menuSplashForm.SplashScreen1.resources
+D:\M\VB 19-7-61\menuSplashForm\menuSplashForm\obj\Debug\menuSplashForm.AboutBox1.resources
